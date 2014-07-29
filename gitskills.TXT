@@ -1,3 +1,5 @@
 ﻿git 使用技巧
 create a new branch
 create a new branch on a branch
+create feature1 branch
+modified on branch master
